@@ -1,0 +1,5 @@
+Ticket cache: FILE:/tmp/krb5cc_1000
+Default principal: gabriel@KERBEROS.COM
+
+Valid starting     Expires            Service principal
+01/02/25 23:02:05  01/03/25 23:02:05  krbtgt/KERBEROS.COM@KERBEROS.COM
