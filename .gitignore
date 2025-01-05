@@ -6,28 +6,38 @@
 *.ko
 *.obj
 *.elf
-
+*.log
+*.tmp
+build/
 # Linker output
 *.ilk
 *.map
 *.exp
-
+*.log
+*.tmp
+build/
 # Precompiled Headers
 *.gch
 *.pch
-
+*.log
+*.tmp
+build/
 # Libraries
 *.lib
 *.a
 *.la
 *.lo
-
+*.log
+*.tmp
+build/
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
-
+*.log
+*.tmp
+build/
 # Executables
 *.exe
 *.out
@@ -35,18 +45,27 @@
 *.i*86
 *.x86_64
 *.hex
-
+*.log
+*.tmp
+build/
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
-
+*.log
+*.tmp
+build/
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+*.log
+*.tmp
+build/
 .tmp_versions/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
